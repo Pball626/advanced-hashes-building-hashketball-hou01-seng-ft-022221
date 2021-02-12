@@ -113,7 +113,5 @@ def game_hash (hash)
     }
   ]
 }
-hash.each do |hash|
-end
-return game_hash
+return game
 end
