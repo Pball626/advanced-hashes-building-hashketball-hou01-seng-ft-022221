@@ -113,5 +113,6 @@ def game_hash (hash)
     }
   ]
 }
+binding.pry
 return hash
 end
