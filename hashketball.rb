@@ -56,7 +56,8 @@ def game_hash
     ]
   }
 ]
-}, 
+}
+binding.pry, 
 {:away => [{:team_name => "Charlotte Hornets",
            :colors => "Turquise, Purple",
            :players => [
@@ -114,5 +115,5 @@ def game_hash
   ]
 }
 return hash
-binding.pry
+
 end
