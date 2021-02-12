@@ -1,8 +1,7 @@
 require "pry"
 def game_hash
 # binding.pry
-  hash = {
-  :home => [{:team_name => "Brooklyn Nets", 
+  hash = {:home => [{:team_name => "Brooklyn Nets", 
              :colors => ["Black, White"], 
              :players => [
       {:player_name => "Alan Anderson",
