@@ -77,6 +77,38 @@ def game_hash
           :blocks => 7,
           :slam_dunks => 2,
         },
+        {
+          :player_name => "Bismack Biyombo",
+          :number => 2,
+          :shoe => 14,
+          :points => 24,
+          :rebounds => 12,
+          :assists => 12,
+          :steals => 4,
+          :blocks => 5,
+          :slam_dunks => 5,
+        },
+        {
+          :player_name => "Ben Gordon",
+          :number => 8,
+          :shoe => 15,
+          :points => 33,
+          :rebounds => 3,
+          :assists => 2,
+          :steals => 1,
+          :blocks => 1,
+          :slam_dunks => 0,
+        },
+        {
+          :player_name => "Desagna Diop",
+          :number => 2,
+          :shoe => 14,
+          :points => 24,
+          :rebounds => 12,
+          :assists => 12,
+          :steals => 4,
+          :blocks => 5,
+          :slam_dunks => 5,
       ]
     
   }
