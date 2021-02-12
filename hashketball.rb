@@ -3,7 +3,7 @@ def game_hash
 # binding.pry
   hash = {:home => {:team_name => "Brooklyn Nets", 
              :colors => ["Black, White"], 
-             :players => [
+             :players => 
       {:player_name => "Alan Anderson",
   :number => 0,
   :shoe => 16,
@@ -58,7 +58,7 @@ def game_hash
 binding.pry, 
 {:away => {:team_name => "Charlotte Hornets",
            :colors => "Turquise, Purple",
-           :players => [
+           :players => 
       {:player_name => "Jeff Adrien",
   :number => 4,
   :shoe => 18,
@@ -108,9 +108,8 @@ binding.pry,
   :steals => 7,
   :blocks => 5,
   :slam_dunks => 12,}
-      ]
     }
-  ]
+  }
 }
 return hash
 
