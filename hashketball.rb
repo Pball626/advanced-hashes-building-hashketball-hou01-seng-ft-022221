@@ -56,7 +56,7 @@ def game_hash
     :colors => ["Turqoise", "Purple"],
     :players => [
       {
-          :player_name => "Jeff Adrien"
+          :player_name => "Jeff Adrien",
           :number => 4,
           :shoe => 18,
           :points => 10,
@@ -66,17 +66,6 @@ def game_hash
           :blocks => 7,
           :slam_dunks => 2,
         },
-        {
-          :player_name => 
-          :number => 
-          :shoe =>
-          :points =>
-          :rebounds =>
-          :assists =>
-          :steals =>
-          :blocks =>
-          :slam_dunks =>
-        }
       ]
     
   }
