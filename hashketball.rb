@@ -1,5 +1,5 @@
 require "pry"
-def game_hash 
+def game_hash (hash)
   game = {
   :home => [{:team_name => "Brooklyn Nets", 
              :colors => ["Black, White"], 
@@ -113,5 +113,7 @@ def game_hash
     }
   ]
 }
+hash.each do |hash|
+end
 return game_hash
 end
