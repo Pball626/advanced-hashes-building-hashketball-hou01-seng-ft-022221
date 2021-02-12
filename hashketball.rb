@@ -5,6 +5,17 @@ def game_hash
       :colors => ["Black", "White"],
       :players => [
         {
+          :player_name => "Alan Anderson"
+          :number => 0,
+          :shoe => 16,
+          :points => 22,
+          :rebounds => 12,
+          :assists => 12,
+          :steals => 3,
+          :blocks => 1,
+          :slam_dunks => 1  
+        },
+        {
           :player_name => 
           :number => 
           :shoe =>
@@ -13,8 +24,8 @@ def game_hash
           :assists =>
           :steals =>
           :blocks =>
-          :slam_dunks =>  
-        },
+          :slam_dunks =>
+        }
         ]
       
     },
@@ -23,9 +34,28 @@ def game_hash
     :colors => ["Turqoise", "Purple"],
     :players => [
       {
-        
-        
-      },]
+          :player_name => "Jeff Adrien"
+          :number => 4,
+          :shoe => 18,
+          :points => 10,
+          :rebounds => 1,
+          :assists => 1,
+          :steals => 2,
+          :blocks => 7,
+          :slam_dunks => 2,
+        },
+        {
+          :player_name => 
+          :number => 
+          :shoe =>
+          :points =>
+          :rebounds =>
+          :assists =>
+          :steals =>
+          :blocks =>
+          :slam_dunks =>
+        }
+      ]
     
   }
     
