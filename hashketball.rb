@@ -1,5 +1,5 @@
 require "pry"
-def game_hash (hash)
+def game_hash
   binding.pry
   hash = {
   :home => [{:team_name => "Brooklyn Nets", 
