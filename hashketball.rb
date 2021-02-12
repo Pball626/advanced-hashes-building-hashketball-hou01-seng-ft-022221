@@ -1,6 +1,6 @@
 def game_hash
-  {:home => {},
-  :away => {}}
+  {:home => {:team_name => "Brooklyn Nets"},
+  :away => {:team_name => "Charolette Hornets"}}
 end
 #   hasketball_hash = {:home => {:team_name => "Brooklyn Nets", 
 #   :colors => "Black, White", 
