@@ -1,5 +1,5 @@
 def game_hash
-  hasketball_hash = {:home => {:team_name => "Brooklyn Nets",
+  hasketball_hash = {:home => {:team_name => "Brooklyn Nets", :colors => "Brooklyn Nets"
   :players => 
   :player_name => "Alan Anderson",
   :number => 0,
